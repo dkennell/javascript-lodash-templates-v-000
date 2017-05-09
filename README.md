@@ -1,5 +1,6 @@
 JavaScript lodash Templates
 ---
+https://www.youtube.com/watch?v=VVV4xeWBIxE
 
 ## Objectives
 
